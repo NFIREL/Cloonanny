@@ -1,0 +1,1 @@
+var json_OnSiteSubstationLocation_14 = {"type":"FeatureCollection","name":"OnSiteSubstationLocation_14","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"On-Site Substation"},"geometry":{"type":"Point","coordinates":[-7.779331782063245,53.756409870595526]}}]}
